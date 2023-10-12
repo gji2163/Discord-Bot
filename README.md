@@ -1,7 +1,5 @@
 # Discord Bot Tutorial
 
-![Discord Bot](bot_image.png)
-
 ## Introduction
 
 Welcome to the [Discord Bot Tutorial](https://github.com/gji2163/Discord-Bots)! This tutorial will guide you through the process of creating a Discord bot using Python and the discord.py library. Whether you're a beginner or an experienced developer, this tutorial is designed to help you get started with creating your very own bot for Discord.
